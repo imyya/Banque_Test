@@ -1,0 +1,14 @@
+/home/mya/Banque/bin/Debug/net8.0/Banque
+/home/mya/Banque/bin/Debug/net8.0/Banque.deps.json
+/home/mya/Banque/bin/Debug/net8.0/Banque.runtimeconfig.json
+/home/mya/Banque/bin/Debug/net8.0/Banque.dll
+/home/mya/Banque/bin/Debug/net8.0/Banque.pdb
+/home/mya/Banque/obj/Debug/net8.0/Banque.GeneratedMSBuildEditorConfig.editorconfig
+/home/mya/Banque/obj/Debug/net8.0/Banque.AssemblyInfoInputs.cache
+/home/mya/Banque/obj/Debug/net8.0/Banque.AssemblyInfo.cs
+/home/mya/Banque/obj/Debug/net8.0/Banque.csproj.CoreCompileInputs.cache
+/home/mya/Banque/obj/Debug/net8.0/Banque.dll
+/home/mya/Banque/obj/Debug/net8.0/refint/Banque.dll
+/home/mya/Banque/obj/Debug/net8.0/Banque.pdb
+/home/mya/Banque/obj/Debug/net8.0/Banque.genruntimeconfig.cache
+/home/mya/Banque/obj/Debug/net8.0/ref/Banque.dll
